@@ -171,8 +171,7 @@ gitpush "Minha mensagem de commit"
 ```
 .
 ├── README.md           # Este arquivo
-├── projeto.md          # Arquivo de exemplo criado no lab
-└── .gitignore         # Arquivos ignorados pelo Git
+└── projeto.md          # Arquivo de exemplo criado no lab
 ```
 
 ## 🎯 Boas Práticas Aplicadas
@@ -181,7 +180,6 @@ gitpush "Minha mensagem de commit"
 - Uso de branches para features
 - Pull Requests para code review
 - Tags para versionamento semântico
-- .gitignore para arquivos sensíveis
 - Autenticação SSH ao invés de HTTPS
 - Automação de tarefas repetitivas
 
